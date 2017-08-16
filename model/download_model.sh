@@ -1,0 +1,1 @@
+wget https://www.dropbox.com/s/q1c0njermnj6w6h/rnn_classi39.npz?dl=0
