@@ -9,5 +9,8 @@ http://qiita.com/thetenthart/items/04b220ea8d348ccdaed6
 実行にはsentencepieceが必要です。
 https://github.com/google/sentencepiece
 
-他に必要なライブラリはnumpy, chainerなどです。
+他に必要なライブラリはnumpy, chainer,pandasなどです。
 chainerはver2以降で動きます。
+
+現状、Windowsでは動かすのが難しいと思います。
+dockerなどで対応できたらと思っています。
